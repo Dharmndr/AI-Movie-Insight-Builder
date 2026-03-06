@@ -164,7 +164,7 @@ http://localhost:3000
 Enter an IMDb Movie ID:
 
 ```
-tt0133093
+tt0468569
 ```
 
 The app will display:
