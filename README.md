@@ -112,7 +112,7 @@ movie-insight-ai
 ## 1️⃣ Clone the repository
 
 ```
-git clone https://github.com/yourusername/movie-insight-ai.git
+git clone https://github.com/Dharmndr/AI-Movie-Insight-Builder.git
 ```
 
 ```
